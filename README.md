@@ -1,2 +1,2 @@
 # HomerProject
-Design Methodology of On Grid Solar PV Powered System for University campuses
+Design Methodology and Economic Analysis of an On-Grid Solar PV System for University Campuse in Kohat
